@@ -1,4 +1,4 @@
-package com.prunzfrfx.cicd.flutter_cicd
+package com.prunzfrfx.cicd
 
 import io.flutter.embedding.android.FlutterActivity
 
